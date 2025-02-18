@@ -1,3 +1,7 @@
 *_venv
 
 *.tfvars
+
+*.env
+
+*_MACOSX
